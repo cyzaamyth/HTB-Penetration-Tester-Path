@@ -7,3 +7,8 @@ Bash (Bourne Again Shell) - Aside from bash there are also other shells, includi
 **What is a Port?**
 
 A port can be thought of as a window or door on a house (the house being a remote system), if a window or door is left open or not locked correctly, we can often gain unauthorized access to a home.
+
+**There are two categories of ports, Transmission Control Protocol (TCP), and User Datagram Protocol (UDP).**
+
+**TCP** is connection-oriented, meaning that a connection between a client and a server must be established before data can be sent. The server must be in a listening state awaiting connection requests from clients.
+**UDP** utilizes a connectionless communication model. There is no "handshake" and therefore introduces a certain amount of unreliability since there is no guarantee of data delivery.
