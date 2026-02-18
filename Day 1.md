@@ -15,3 +15,4 @@ A port can be thought of as a window or door on a house (the house being a remot
 
 https://web.archive.org/web/20240315102711/https://packetlife.net/media/library/23/common-ports.pdf
 
+https://nullsec.us/top-1-000-tcp-and-udp-ports-nmap-default/
