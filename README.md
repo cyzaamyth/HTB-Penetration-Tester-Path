@@ -11,4 +11,5 @@ A port can be thought of as a window or door on a house (the house being a remot
 **There are two categories of ports, Transmission Control Protocol (TCP), and User Datagram Protocol (UDP).**
 
 **TCP** is connection-oriented, meaning that a connection between a client and a server must be established before data can be sent. The server must be in a listening state awaiting connection requests from clients.
+
 **UDP** utilizes a connectionless communication model. There is no "handshake" and therefore introduces a certain amount of unreliability since there is no guarantee of data delivery.
