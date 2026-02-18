@@ -16,3 +16,7 @@ A port can be thought of as a window or door on a house (the house being a remot
 https://web.archive.org/web/20240315102711/https://packetlife.net/media/library/23/common-ports.pdf
 
 https://nullsec.us/top-1-000-tcp-and-udp-ports-nmap-default/
+
+**What is a Web Server?**
+
+A web server is an application that runs on the back-end server, which handles all of the HTTP traffic from the client-side browser, routes it to the requests destination pages, and finally responds to the client-side browser. Web servers usually run on TCP ports 80 or 443, and are responsible for connecting end-users to various parts of the web application, in addition to handling their various responses
