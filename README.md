@@ -13,3 +13,5 @@ A port can be thought of as a window or door on a house (the house being a remot
 **TCP** is connection-oriented, meaning that a connection between a client and a server must be established before data can be sent. The server must be in a listening state awaiting connection requests from clients.
 
 **UDP** utilizes a connectionless communication model. There is no "handshake" and therefore introduces a certain amount of unreliability since there is no guarantee of data delivery.
+
+https://web.archive.org/web/20240315102711/https://packetlife.net/media/library/23/common-ports.pdf
